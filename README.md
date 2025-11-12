@@ -15,3 +15,6 @@ Tracking grade history and progress
 Saving and loading student data in the .ctl file format
 
 With these functionalities, students can easily analyze their academic performance, monitor their progress, and compare their standing among other students.
+
+To run the program, download the installer file.
+If you want to access the source code, download the student_projectv2 folder, which contains the full implementation written in C++ using the Qt framework.
